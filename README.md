@@ -56,8 +56,7 @@ This is probably my simplest project yet, but despite that It's still useful :sm
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### 1. Go to [https://github.com/ErdajtSopjani/AC-unlocker/releases] and download the zip file
-### 2. Extract the zip file.
+### 1. Go to [https://github.com/ErdajtSopjani/AC-unlocker/releases] and download the executable script
 ### 3. Download whatever mods are required to join the specific server you want to play
 ### 4. Run the script (make sure the file path is correct)
 
