@@ -57,8 +57,9 @@ This is probably my simplest project yet, but despite that It's still useful :sm
 ## Usage
 
 ### 1. Go to [https://github.com/ErdajtSopjani/AC-unlocker/releases] and download the executable script
-### 3. Download whatever mods are required to join the specific server you want to play
-### 4. Run the script and the file path must be set to: `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content`
+### 2. Download whatever mods are required to join the specific server you want to play (only if you want to join a server which you don't have the mods for)
+step 2 can be skipped if you have installed the mods already or want to play offline
+### 3. Run the script and the file path must be set to: `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content`
 
 note: you need to run the script for each new mod you install on the future.
 
